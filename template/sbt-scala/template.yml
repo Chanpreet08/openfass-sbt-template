@@ -1,0 +1,2 @@
+language: sbt
+fprocess: java -jar /app.jar
